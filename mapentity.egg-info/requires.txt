@@ -1,0 +1,23 @@
+Django >= 1.4
+GDAL >= 1.9
+gpxpy
+BeautifulSoup4
+requests
+django-modeltranslation
+django-shapes
+django-floppyforms
+django-crispy-forms
+django-compressor
+django-filter
+easy-thumbnails
+django-tinymce
+djangorestframework
+djangorestframework-gis
+django-appypod>=0.0.2
+django-leaflet>=0.14
+django-geojson>=2
+paperclip
+WeasyPrint
+django-weasyprint
+mock
+factory_boy == 1.1.5
